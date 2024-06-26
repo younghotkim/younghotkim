@@ -4,9 +4,12 @@
   <h1>Welcome to younghotkim's github</h1>
 </div>
 
+![Badge](https://img.shields.io/badge/React-CC6699.svg?&logo=Sass&logoColor=fff)
+
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello%20Hello&fontSize=90%)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&weight=800&size=30&pause=1000&color=000101&random=false&width=435&lines=Trying+to+learn+Dev+lang)](https://git.io/typing-svg)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghotkim)](https://github.com/anuraghazra/github-readme-stats)
 
