@@ -4,8 +4,8 @@
   <h1>Welcome to younghotkim's github</h1>
 </div>
 
-<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
-<img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+<img alt="JavaScript" display="inline" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img alt="React" display="inline" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello%20Hello&fontSize=90%&fontColor=black)
 
