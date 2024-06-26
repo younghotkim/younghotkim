@@ -4,7 +4,7 @@
   <h1>Welcome to younghotkim's github</h1>
 </div>
 
-![Badge](https://img.shields.io/badge/JavaScrpit-#F7DF1E.svg?&logo=JavaScript&logoColor=fff)
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello%20Hello&fontSize=90%)
 
