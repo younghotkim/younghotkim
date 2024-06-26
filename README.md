@@ -4,7 +4,7 @@
   <h1>Welcome to younghotkim's github</h1>
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=black&height=300&section=header&text=Hello%20Hello&fontSize=90%)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello%20Hello&fontSize=90%)
 
 
 
