@@ -7,7 +7,7 @@
 <img alt="JavaScript" display="inline" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img alt="React" display="inline" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello%20Hello&fontSize=90%&fontColor=black)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Young's%20Github&fontSize=90%&fontColor=black)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&weight=800&size=30&pause=1000&color=000101&random=false&width=435&lines=Trying+to+learn+Dev+lang)](https://git.io/typing-svg)
 
