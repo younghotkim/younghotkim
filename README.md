@@ -1,13 +1,14 @@
 ## Hi there 👋
 
-<div align="center">
+</div>
   <h1>Welcome to younghotkim's github</h1>
 </div>
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello%20Hello&fontSize=90%)
 
+</div>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&weight=800&size=30&pause=1000&color=000101&random=false&width=435&lines=Trying+to+learn+Dev+lang)](https://git.io/typing-svg)
-
+</div>
 <!--
 **younghotkim/younghotkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
