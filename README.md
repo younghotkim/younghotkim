@@ -23,8 +23,8 @@ STACKS
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&weight=800&size=30&pause=1000&color=000101&random=false&width=435&lines=Trying+to+learn+Dev+lang)](https://git.io/typing-svg)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghotkim)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghotkim&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **younghotkim/younghotkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
