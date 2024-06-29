@@ -31,3 +31,5 @@ namespace OptionalChainingNS {
 // const result = val1 ?? val2;
 
 //null이 아니면 val1 null이면 val2
+
+//3항 연산자!
