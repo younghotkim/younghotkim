@@ -4,9 +4,10 @@ export default function App() {
   return (
     <div>
       <p>
-        {D.randomName()}, {D.randomJobTitle()}, {D.randomDayMonthYear()}
+        {D.randomName()}, {D.randomJobTitle()}, {D.randomCompanyName()},
+        {D.randomEmail()}, {D.randomDayMonthYear()}
       </p>
-      <img src={D.randomAvatar()} height="500" />
+      <img src={D.randomAvatar()} height="50" />
       <img src={D.randomImage()} height="300" />
     </div>
   );
