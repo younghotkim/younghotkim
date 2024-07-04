@@ -1,60 +1,51 @@
-// import * as D from "./data";
+// //event 처리
+
+// import EventListner from "./pages/EventListner";
+// import OnClick from "./pages/OnClick";
+// import ReactOnClick from "./pages/ReactOnClick";
+// import DispathEvent from "./pages/DispatchEvent";
+// import EventBubbling from "./pages/EventBubbling";
+// import StopPropagation from "./pages/StopProganation";
+// import VariousInputs from "./pages/VariousInputs";
+// import Onchange from "./pages/OnChange";
+// import FileInPut from "./pages/FileInput";
+// import FileDrop from "./pages/FileDrop";
+// import DragDrop from "./pages/DragDrop";
 
 // export default function App() {
 //   return (
 //     <div>
-//       <p>
-//         {D.randomName()}, {D.randomJobTitle()}, {D.randomCompanyName()},
-//         {D.randomEmail()}, {D.randomDayMonthYear()}
-//       </p>
-//       <img src={D.randomAvatar()} height="50" />
-//       <img src={D.randomImage()} height="300" />
+//       <FileDrop />
+//       <EventBubbling />
+//       <EventListner />
+//       <ReactOnClick />
+//       <DispathEvent />
+//       <StopPropagation />
+//       <VariousInputs />
+//       <OnClick />
+//       <Onchange />
+//       <FileDrop />
+//       <DragDrop />
+//       <FileInPut />
 //     </div>
 //   );
 // }
 
-// import { Component } from "react";
-// import ClassCompent from "./ClassCompent";
+import Bootstrap from "./pages/Bootstrap";
+import Icon from "./pages/Icon";
+import Styles from "./pages/Styles";
+import "./index.css";
+// import UsingIcon from "./pages/UsingIcon";
+// import UsingIconWithCSSClass from "./pages/UsingIconWithCSSClass";
 
-// export default class App extends Component {
-//   render() {
-//     return (
-//       <ul>
-//         <ClassCompent href="http://www.google.com" text="go to google" />
-//         <ClassCompent href="http://www.x.com" text="go to x" />
-//       </ul>
-//     );
-//   }
-// }
-
-import { Component } from "react";
-import ClassCompent from "./ClassCompent";
-import ArrowComponent from "./ArrowCompent";
-import P from "./P";
-
-// export default function App() {
-//   return <div>Hello function-keyword component!</div>;
-// }
-//위를 화살표 함수로 변형
-
-// const App = () => {
-//   return (
-//     <ul>
-//       <ClassCompent href="http://www.google.com" text="go to google" />
-//       <ArrowComponent href="http://www.x.com" text="go to X" />
-//     </ul>
-//   );
-// };
-
-const App = () => {
-  //refactoring by using map function
-  //const texts = [<p key="1">hello</p>, <p key="2">world</p>];
-
-  const texts = ["hello", "world"].map((item, index) => (
-    <p key={index} children={item} />
-  ));
-
-  return <div children={texts} />;
-};
-
-export default App;
+export default function App() {
+  return (
+    <div>
+      {/* /* <UsingIconWithCSSClass />
+      <UsingIcon />*/}
+      <Styles />
+      <Icon />
+      <Bootstrap />
+    </div>
+  );
+}
