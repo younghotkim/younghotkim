@@ -28,3 +28,10 @@ a.run();
 b.run();
 
 console.log(Runner.lastRunTypeName);
+
+const a = new Runner("a");
+const b = new Runner("b");
+a.run();
+b.run();
+
+console.log(Runner.lastRunTypeName);

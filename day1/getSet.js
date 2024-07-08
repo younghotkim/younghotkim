@@ -19,3 +19,7 @@ class Speaker {
 const speaker = new Speaker("john");
 speaker.Message = "hello";
 console.log(speaker.Message);
+
+const speaker = new Speaker("john");
+speaker.Message = "hello";
+console.log(speaker.Message);
