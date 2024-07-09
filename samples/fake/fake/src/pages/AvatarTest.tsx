@@ -7,7 +7,7 @@ export default function AvatarTest() {
     <Avatar
       className="inline-block ml-6 border-4 border-white"
       key={index}
-      src={D.randomAvatar()}
+      src={"/cr4.jpg"}
     ></Avatar>
   ));
   return (

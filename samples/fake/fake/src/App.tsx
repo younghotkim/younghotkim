@@ -64,43 +64,72 @@
 //   );
 // }
 
-import AvartarTest from "./pages/AvatarTest";
-import BackgroundImageTest from "./pages/BackgroundImageTest";
-import BorderTest from "./pages/BorderTest";
-import DisplayNoneTest from "./pages/DisplayNoneTest";
-import DisplayTest from "./pages/DisplayTest";
-import DivTest from "./pages/DivTest";
-import HeightTest from "./pages/HeightTest";
-import ImageTest from "./pages/ImageTest";
-import MarginTest from "./pages/MarginTest";
-import OverlayTest from "./pages/OverlayTest";
-import PaddingTest from "./pages/PaddingTest";
-import PositionTest from "./pages/PositionTest";
-import ViewportTest from "./pages/ViewportTest";
-import MyImage from "./src_assets/cr4.jpg";
+// import AvartarTest from "./pages/AvatarTest";
+// import BackgroundImageTest from "./pages/BackgroundImageTest";
+// import BorderTest from "./pages/BorderTest";
+// import DisplayNoneTest from "./pages/DisplayNoneTest";
+// import DisplayTest from "./pages/DisplayTest";
+// import DivTest from "./pages/DivTest";
+// import HeightTest from "./pages/HeightTest";
+// import ImageTest from "./pages/ImageTest";
+// import MarginTest from "./pages/MarginTest";
+// import OverlayTest from "./pages/OverlayTest";
+// import PaddingTest from "./pages/PaddingTest";
+// import PositionTest from "./pages/PositionTest";
+// import ViewportTest from "./pages/ViewportTest";
+
+// export default function App() {
+//   return (
+//     <main>
+//       <AvartarTest />
+//       <BackgroundImageTest />
+//       <BorderTest />
+//       <DisplayNoneTest />
+//       <DivTest />
+//       <HeightTest />
+//       <ImageTest />
+//       <MarginTest />
+//       <ViewportTest />
+//       <PositionTest />
+//       <PaddingTest />
+//       <OverlayTest />
+//       <DisplayTest />
+//     </main>
+//   );
+// }
+
+// import DirectionTest from "./pages/DirectionTest";
+// import WrapTest from "./pages/WrapTest";
+// import MinMaxTest from "./pages/MinMaxTest";
+// import JustifyCenterTest from "./pages/JustifyCenterTest";
+// import AlignTest from "./pages/AlignTest";
+// import UserContainer from "./pages/UserContainer";
+// import CardContainer from "./pages/CardContainer";
+
+// export default function App() {
+//   return (
+//     <main>
+//       <CardContainer />
+//       <UserContainer />
+//       <AlignTest />
+//       <JustifyCenterTest />
+//       <MinMaxTest />
+//       <WrapTest />
+//       <DirectionTest />
+//     </main>
+//   );
+// }
+
+import ButtonTest from "./pages/ButtonTest";
+import InputTest from "./pages/InputTest";
+import ModalTest from "./pages/ModalTest";
 
 export default function App() {
   return (
     <main>
-      <AvartarTest />
-      <BackgroundImageTest />
-      <BorderTest />
-      <DisplayNoneTest />
-      <DivTest />
-      <HeightTest />
-      <ImageTest />
-      <MarginTest />
-      <ViewportTest />
-      <PositionTest />
-      <PaddingTest />
-      <OverlayTest />
-      <DisplayTest />
-      <div className="flex items-center justify-center min-h-screen bg-gray-100">
-        <img
-          src={MyImage}
-          className="w-120 h-120 object-cover rounded-full shadow-lg"
-        />
-      </div>
+      <ButtonTest />
+      <InputTest />
+      {/* <ModalTest /> */}
     </main>
   );
 }
