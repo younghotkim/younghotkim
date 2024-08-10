@@ -4,6 +4,7 @@ const KakaoStrategy = require("passport-kakao").Strategy;
 const { User } = require("../models");
 
 //kakaoapi 이용
+//naver api추가하기 + google api추가하기
 
 module.exports = () => {
   passport.use(
