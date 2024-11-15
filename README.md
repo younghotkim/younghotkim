@@ -29,20 +29,21 @@
 ### ☁️ 클라우드 및 배포
 - **AWS EC2**, **RDS**, **Route53**, **Certificate Manager**, **Load Balancer**
 - **Bedrock**
-- **Google Cloud Platform**
 
 ### 🤖 AI 및 API 통합
 - **Oauth2.0**
 - **Google Maps API**
 - **Kakao API**
 - **OpenAI API**
+- **Google Cloud Platform**
 - **Gemini API**
 - **Stable Diffusion Web UI**
 
-### ⚙️ 개발 도구 & 협업 툴
-- **MobaxTerm**
-- **Git** & **GitHub Actions**
-- **Notion**, **Figma**
+### ⚙️ 협업 툴
+- **Github**
+- **Figma**
+- **Notion**
+- **Slack**
 
 ---
 
