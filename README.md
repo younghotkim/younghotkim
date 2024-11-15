@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<div align="center">
-  <h1>Welcome to younghotkim's github</h1>
-</div>
-
 # 👋 김영하 | Full-Stack Developer
 
 안녕하세요! 저는 웹과 모바일 애플리케이션을 개발하는 풀스택 개발자입니다. 주로 React와 Flutter를 사용하여 프론트엔드를 개발하고, Node.js와 FastAPI를 이용해 백엔드를 구축하고 있습니다. 클라우드 인프라, 데이터베이스 설계, 그리고 AI API 통합에 깊은 관심을 가지고 있으며, 항상 더 나은 성능과 사용성을 위해 도전하고 있습니다.
@@ -64,9 +58,9 @@
 ---
 
 ## 📫 연락처
-- **이메일**: youngha@example.com
+- **이메일**: younghotkim@gmail.com
 - **LinkedIn**: [youngha-linkedin](https://linkedin.com/in/youngha)
-- **GitHub**: [영하의 깃허브 프로필](https://github.com/yourgithubusername)
+- **GitHub**: [영하의 깃허브 프로필](https://github.com/younghotkim)
 
 저와 협업하고 싶으시다면 언제든지 연락 주세요! 항상 새로운 도전과 배움을 환영합니다. 😊
 
