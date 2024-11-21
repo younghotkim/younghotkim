@@ -70,10 +70,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghotkim&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younghotkim&layout=donut-vertical&langs_count=8&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younghotkim&layout=pie&langs_count=8&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
 **younghotkim/younghotkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
