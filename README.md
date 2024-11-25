@@ -7,49 +7,33 @@
 ## 🛠️ 기술 스택
 
 ### 🌐 프로그래밍 언어
-- **Java**: 중
-- **JavaScript**: 중상
-- **TypeScript**: 중상
-- **Python**: 중
-- **Dart**: 중
-- **Kotlin**: 하
+- **Java**
+- **JavaScript**
+- **Python**
+- **Dart**
 
 ### 📦 프레임워크 & 라이브러리
-- **Spring**: 중
-- **React**: 중상
-- **Flutter**: 중
-- **FastAPI**: 중
-- **Node.js**: 중상
+- **Spring**
+- **FastAPI**
+- **Node.js**
+
+- **React**
+- **Flutter**
 
 ### 🗄️ 데이터베이스
-- **MySQL**: 중상
-- **Oracle**: 중
-- **MongoDB**: 중
+- **MySQL**
+- **Oracle**
+- **MongoDB**
 
 ### ☁️ 클라우드 및 배포
 - **AWS EC2**, **RDS**, **Route53**, **Certificate Manager**, **Load Balancer**
-- **Bedrock**
-
-### 🤖 AI 및 API 통합
-- **Oauth2.0**
-- **Google Maps API**
-- **Kakao API**
-- **OpenAI API**
-- **Google Cloud Platform**
-- **Gemini API**
-- **Stable Diffusion Web UI**
-
-### ⚙️ 협업 툴
-- **Github**
-- **Figma**
-- **Notion**
-- **Slack**
-
 ---
 
 ## 🌱 현재 집중하고 있는 것
-- AI 기반 웹 서비스 개발 및 최적화에 관심을 두고 있습니다.
-- WebSocket을 사용한 실시간 GPS 데이터 전송 기능을 구현 중입니다.
+**AI 기반 웹 서비스 개발 및 최적화에 관심을 두고 있습니다**
+- LangChain과 RAG를 활용하여 사용자 입력 텍스트의 감정을 분석하고, 관련 정보를 실시간으로 제공하는 프로그램을 개발중.
+- FAISS를 활용해 대규모 텍스트 데이터를 벡터화하고, 이를 효율적으로 검색해 사용자 요청에 적합한 정보를 제공하는 검색 시스템을 구축중.
+- Hugging Face의 Transformers 라이브러리를 사용해 감정 분석 모델을 fine-tuning 중.
 
 ## 💡 주요 프로젝트
 1. **MAEGEUL** - 마음 돌봄을 위한 AI분석 글쓰기 플랫폼 (React.ts, Node.js)
