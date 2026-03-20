@@ -1,53 +1,29 @@
-# 👋 김영하 | Full-Stack Developer
+# 김영하 (Layl Youngha Kim) | AI Agent Engineer / Full-Stack Developer
 
-안녕하세요! 저는 LLM API를 활용한 웹과 모바일 애플리케이션을 개발하는 풀스택 개발자입니다. React와 Flutter를 사용하여 프론트엔드를 개발하고, Node.js와 FastAPI, Spring Framework를 이용해 백엔드를 구축하고 있습니다. 클라우드 인프라, 데이터베이스 설계, 그리고 AI API 통합에 깊은 관심을 가지고 있으며, 항상 더 나은 성능과 사용성을 위해 도전하고 있습니다.
+Building production-grade AI agents and full-stack products.
+Focused on agent orchestration with LangGraph, memory design with LangMem, and practical skill/tooling for domain-specific AI systems.
+
+산업 도메인 지식과 LLM 시스템을 연결하는 AI Agent Engineer입니다.
+LangGraph 기반 에이전트 오케스트레이션, LangMem 기반 메모리 설계, Skills/Tooling 구현에 집중하고 있으며, 실제 업무 맥락에서 동작하는 도메인 특화 에이전트를 개발합니다.
 
 ---
 
-## 🛠️ 기술 스택
+## Current Focus
+- Designing and building AI agents with LangGraph
+- Developing memory-aware agent workflows with LangMem
+- Creating reusable skills, tools, and execution patterns for agent systems
+- Building domain-specialized agents that combine industrial knowledge with LLM capabilities
 
-### 🌐 프로그래밍 언어
-- **Java**
-- **JavaScript**
-- **Python**
-- **Dart**
-
-### 📦 프레임워크 & 라이브러리
-- **Spring**
-- **FastAPI**
-- **Node.js**
-
-- **React**
-- **Flutter**
-
-### 🗄️ 데이터베이스
-- **MySQL**
-- **Oracle**
-- **MongoDB**
-
-### ☁️ 클라우드 및 배포
-- **AWS EC2**, **RDS**, **Route53**, **Certificate Manager**, **Load Balancer**
----
-
-## 🌱 현재 집중하고 있는 것
-**AI 기반 웹 서비스 개발 및 최적화에 관심을 두고 있습니다**
-- LangChain과 RAG를 활용하여 사용자 입력 텍스트의 감정을 분석하고, 관련 정보를 실시간으로 제공하는 프로그램을 개발중.
-- FAISS를 활용해 대규모 텍스트 데이터를 벡터화하고, 이를 효율적으로 검색해 사용자 요청에 적합한 정보를 제공하는 검색 시스템을 구축중.
-- Hugging Face의 Transformers 라이브러리를 사용해 감정 분석 모델을 fine-tuning 중.
-
-## 💡 주요 프로젝트
-1. **MAEGEUL** - 마음 돌봄을 위한 AI분석 글쓰기 플랫폼 (React.ts, Node.js)
-2. **운동기록 시스템** - 운동 데이터 기록 및 추적 관리 서비스 (React.js, Node.js)
-3. **On The Board** - 보드게임 예약 및 매칭 플랫폼 (Java, Spring Framework)
-4. **차량용 GPS** - 차량 위치를 추적하여 실시간 알림 기능을 제공해주는 모바일 애플리케이션 (Flutter, Node.js)
----
+## 최근 작업
+- LangGraph 기반 AI Agent 설계 및 개발
+- LangMem 기반 메모리 중심 에이전트 워크플로우 구현
+- 재사용 가능한 Skills, Tools, Execution Pattern 설계
+- 산업 도메인 지식과 LLM을 결합한 도메인 특화 에이전트 개발
 
 ## 📫 연락처
 - **이메일**: younghotkim@gmail.com
 - **LinkedIn**: [youngha-linkedin](https://linkedin.com/)
 - **GitHub**: [영하의 깃허브 프로필](https://github.com/younghotkim)
-
-저와 협업하고 싶으시다면 언제든지 연락 주세요! 항상 새로운 도전과 배움을 환영합니다. 😊
 
 
 
