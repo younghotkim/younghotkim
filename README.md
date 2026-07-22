@@ -26,13 +26,6 @@ LangGraph 기반 에이전트 오케스트레이션, LangMem 기반 메모리 �
 - **GitHub**: [영하의 깃허브 프로필](https://github.com/younghotkim)
 
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghotkim&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younghotkim&layout=pie&langs_count=8&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
